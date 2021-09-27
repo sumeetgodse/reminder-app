@@ -1,0 +1,36 @@
+.column {
+    float: left;
+    padding: 10px 10px;
+}
+  
+.row {
+    margin: 0 -5px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+  
+.card {
+    font-family: 'Inter', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: #c5e1a5;
+    margin-left: 8px;
+    position: relative;
+}
+
+.delete {
+    padding: 5px;
+    top:0;
+    position: absolute;
+    right: 0;
+    height: 15px;
+    width: 15px;
+}
+
+.delete:hover{
+    cursor: pointer;
+}

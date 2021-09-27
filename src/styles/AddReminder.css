@@ -1,0 +1,37 @@
+.add-reminder{
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 12px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.reminder-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.add-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.button{
+    height: 50px;
+    width: 150px;
+    background-color: #689f38;
+    color: white;
+    transition-duration: 1s;
+    border: none;
+    border-radius: 12px;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #33691e;
+}
