@@ -6,3 +6,5 @@ Steps to run -
 4. yarn start
 
 Tutorial Playlist - https://www.youtube.com/playlist?list=PLpBvfX8lxmEFjKhCUw-8PYniTz4gZgsuy
+
+Live Site - https://reminder-appl.netlify.app
