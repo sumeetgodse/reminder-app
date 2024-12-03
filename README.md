@@ -1,5 +1,5 @@
 
-## [Youtube tutorial playlist](https://www.youtube.com/playlist?list=PLpBvfX8lxmEFjKhCUw-8PYniTz4gZgsuy)
+## [Check out the YouTube tutorial playlist](https://www.youtube.com/playlist?list=PLpBvfX8lxmEFjKhCUw-8PYniTz4gZgsuy)
 
 ## Reminder App
 
