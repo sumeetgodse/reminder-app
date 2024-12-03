@@ -1,14 +1,18 @@
-Steps to run -
 
-1. Clone the repo
-2. cd reminder-app
-3. npm install
-4. yarn start
+## [Youtube tutorial playlist](https://www.youtube.com/playlist?list=PLpBvfX8lxmEFjKhCUw-8PYniTz4gZgsuy)
 
-Tutorial Playlist - https://www.youtube.com/playlist?list=PLpBvfX8lxmEFjKhCUw-8PYniTz4gZgsuy
+## Reminder App
 
-Live Site - https://reminder-appl.netlify.app
+### Run locally -
 
-You can add "Edit Reminder Functionality" as well as perform "Error Handling in User Authentication" as a challenge. In case you are stuck, you can refer - https://github.com/sumeetgodse/reacttraining/tree/reminder-app/
+- Clone this repo
+- Run `yarn install`
+- Run `yarn start`
 
-Happy Coding!
+#### App should now be running on `http://localhost:3000/`
+
+#### Visit live app - https://mind-it.netlify.app/
+
+#### You can add "Edit Reminder Functionality" as well as perform "Error Handling in User Authentication" as a challenge. In case you are stuck, you can refer - [Reminder App v2](https://github.com/sumeetgodse/reminder-app-v2)
+
+#### Happy Coding!
